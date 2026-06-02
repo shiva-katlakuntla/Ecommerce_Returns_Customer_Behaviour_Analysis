@@ -1,0 +1,51 @@
+warehouse_id,warehouse_name,city,state,region,capacity_units,avg_dispatch_time_hours
+101,Mumbai Central Warehouse,Mumbai,Maharashtra,West,207473.0,33.41
+102,Delhi Distribution Centre,Delhi,Delhi,North,731262.0,16.77
+103,Bangalore Distribution Centre,Bangalore,Karnataka,South,106814.0,15.83
+104,Hyderabad Fulfillment Center,Hyderabad,Telangana,South,197251.0,20.62
+105,Chennai Fulfillment Center,Chennai,Tamil Nadu,South,496922.0,19.04
+106,Kolkata Fulfillment Center,Kolkata,West Bengal,East,338968.0,35.65
+107,Pune Central Warehouse,Pune,Maharashtra,West,270555.0,17.03
+108,Ahmedabad Central Warehouse,Ahmedabad,Gujarat,West,271339.0,18.48
+109,Jaipur Regional Hub,Jaipur,Rajasthan,North,340174.0,31.32
+110,Lucknow Central Warehouse,Lucknow,Uttar Pradesh,North,429963.0,23.98
+111,Mumbai Distribution Centre,Mumbai,Maharashtra,West,665158.0,26.03
+112,Delhi Distribution Centre,Delhi,Delhi,North,617488.0,13.13
+113,Bangalore Regional Hub,Bangalore,Karnataka,South,500156.0,23.23
+114,Hyderabad Central Warehouse,Hyderabad,Telangana,South,379786.0,20.16
+115,Chennai Regional Hub,Chennai,Tamil Nadu,South,376183.0,30.29
+116,Kolkata Central Warehouse,Kolkata,West Bengal,East,738551.0,20.97
+117,Pune Central Warehouse,Pune,Maharashtra,West,480612.0,31.96
+118,Ahmedabad Central Warehouse,Ahmedabad,Gujarat,West,609597.0,35.47
+119,Jaipur Regional Hub,Jaipur,Rajasthan,North,377932.0,26.56
+120,Lucknow Regional Hub,Lucknow,Uttar Pradesh,North,491559.0,24.42
+121,Mumbai Regional Hub,Mumbai,Maharashtra,West,717024.0,13.7
+122,Delhi Regional Hub,Delhi,Delhi,North,639131.0,28.06
+123,Bangalore Regional Hub,Bangalore,Karnataka,South,354801.0,31.38
+124,Hyderabad Central Warehouse,Hyderabad,Telangana,South,156802.0,35.62
+125,Chennai Distribution Centre,Chennai,Tamil Nadu,South,300896.0,22.77
+126,Kolkata Fulfillment Center,Kolkata,West Bengal,East,677057.0,27.65
+127,Pune Central Warehouse,Pune,Maharashtra,West,274389.0,23.55
+128,Ahmedabad Central Warehouse,Ahmedabad,Maharashtra,West,577110.0,28.72
+129,Jaipur Distribution Centre,Jaipur,Rajasthan,North,707314.0,13.46
+130,Lucknow Central Warehouse,Lucknow,Uttar Pradesh,North,265080.0,24.19
+131,Mumbai Central Warehouse,Mumbai,Maharashtra,West,225710.0,25.67
+132,Delhi Central Warehouse,Delhi,Delhi,North,648177.0,18.26
+133,Bangalore Fulfillment Center,Bangalore,Karnataka,South,414569.0,34.3
+134,Hyderabad Central Warehouse,Hyderabad,Telangana,South,176819.0,24.14
+135,Chennai Fulfillment Center,Chennai,Tamil Nadu,South,265409.0,25.04
+136,Kolkata Central Warehouse,Kolkata,West Bengal,East,208618.0,15.22
+137,Pune Central Warehouse,Pune,Maharashtra,West,320861.0,16.89
+138,Ahmedabad Fulfillment Center,Ahmedabad,Gujarat,West,153266.0,22.17
+139,Jaipur Central Warehouse,Jaipur,Rajasthan,North,269430.0,25.24
+140,Lucknow Central Warehouse,Lucknow,Uttar Pradesh,North,256294.0,32.03
+141,Mumbai Regional Hub,Mumbai,Maharashtra,West,141832.0,17.04
+142,Delhi Central Warehouse,Delhi,Delhi,North,750810.0,34.22
+143,Bangalore Regional Hub,Bangalore,Karnataka,South,125990.0,34.19
+144,Hyderabad Distribution Centre,Hyderabad,Telangana,South,379766.0,28.83
+145,Chennai Central Warehouse,Chennai,Tamil Nadu,South,582662.0,31.69
+146,Kolkata Regional Hub,Kolkata,West Bengal,East,172792.0,18.7
+147,Pune Distribution Centre,Pune,Maharashtra,West,128941.0,35.29
+148,Ahmedabad Fulfillment Center,Ahmedabad,Gujarat,West,428914.0,35.62
+149,Jaipur Regional Hub,Jaipur,Rajasthan,South,481913.0,34.77
+150,Lucknow Fulfillment Center,Lucknow,Uttar Pradesh,North,631756.0,21.8
